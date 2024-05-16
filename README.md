@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vido ao meu perfil ♥️
 
-<!--
-**LuaPSantos/luaPSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e Luana Passos
+- estou estudado no alura
+- estou aprendedo a desenvover a linguagem javaScript
+- estou usado esse espaço para organização e compatilhar meus projetos
 
-Here are some ideas to get you started:
+## pra falar comigo use 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+passosluana58@gmail.com
+
+![](https://media1.tenor.com/m/nvyXU_nufyEAAAAC/welcome-welcome-to-the-team.gif)
+
+
